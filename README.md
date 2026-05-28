@@ -132,58 +132,11 @@ open_to:
 
 ## 🌐 Let's Connect  
 
-
-
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/vaibhavihole31/">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://twitter.com/VaibhaviHole">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://peerlist.io/vaibhavihole31">
-
-    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
-
-  </a>
-
-  <a href="https://medium.com/@Vaibhavihole31">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://www.youtube.com/channel/UC0eauXsOnwwkNTjppgk9-vw">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
-
-  </a>
-
-</p>
-
-
-
+- GitHub: https://github.com/Mayuritile18
 ---
-
-
 
 ## 💭 Personal Motto  
 
+> Learn. Build. Improve. Repeat. 🔁
 
-
-> Build. Teach. Inspire. Repeat. 🔁  
-
-
-
-If you’re passionate about tech, education, or cloud — let’s connect 🤝  
-
-
-https://github.com/DenverCoder1/github-readme-streak-stats
-https://github.com/Platane/snk
+Always learning, always growing 🚀

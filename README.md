@@ -124,7 +124,7 @@ open_to:
 
 
 
-![Contribution Graph] (./github-user-contribution.svg)
+![Contribution Graph] (./![alt text](<github-user-contribution (1).svg>))
 
 ---
 
